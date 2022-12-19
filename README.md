@@ -5,8 +5,8 @@
 🌱 I’m currently learning even more of TypeScript and what I've been missing for a long time: AWS Cloud Development Kit.
 
 🏗️ I'm currently building two things:
-    - a data warehouse built around Strapi and AWS,
-    - a very cool social App build for Spotify users, more on that in January 2023!
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- a data warehouse built around Strapi and AWS,
+<br>&nbsp;&nbsp;&nbsp;&nbsp;- a very cool social App build for Spotify users, more on that in January 2023!
 
 💞️ I’m looking to collaborate on any JavaScript based project that has good intentions and a useful product.
 
