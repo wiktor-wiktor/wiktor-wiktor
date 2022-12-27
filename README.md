@@ -1,6 +1,6 @@
 👋 Hi, I’m Wiktor (@wiktor-wiktor). I write code from a beautiful city of Wrocław.
 
-👀 I’m interested in all of the new hot & shinny tech that comes right and left. Be that around JavaScript or AI.
+👀 I’m interested in all of the new, hot & shinny tech that comes from right and left. Be that around JavaScript or AI.
 
 🌱 I’m currently learning even more of TypeScript and what I've been missing for a long time: AWS Cloud Development Kit.
 
