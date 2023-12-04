@@ -1,4 +1,4 @@
-👋 Hi, I’m Wiktor (@wiktor-wiktor). I write code from a beautiful city of Wrocław.
+👋 Hi, I’m Wiktor (@wiktor-wiktor). I write code from a beautiful city of ~Wrocław~ Ljubljana.
 
 👀 I’m interested in all of the new, hot & shinny tech that comes from right and left. Be that around JavaScript or AI.
 
